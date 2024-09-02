@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 - 🌱 I’m currently learning CP.
 - 🔭 I’m working on CP.
-- 💬 Ask me about C, C++.
-- 📫 How to reach me: sayandevnath@hotmail.com .
+- 💬 Ask me about C & C++.
+- 📫 How to reach me: sayandevnath@hotmail.com
 - ⚡ Fun fact: Loading... .
 
 ## 🛠️ Skills & Tools
@@ -21,8 +21,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 
 ## 📈 GitHub Stats
-
-!SAYAN-DEV-NATH https://github.com/SAYAN-DEV-NATH
+![SAYAN-DEV-NATH](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 

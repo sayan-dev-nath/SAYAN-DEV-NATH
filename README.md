@@ -13,27 +13,16 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 ## 🛠️ Skills & Tools
 
 - **Languages:** C, C++
-- **Frameworks:** [List of frameworks you're proficient in]
+- **Frameworks:** Loading...
 - **Tools:** VS Code, Android Studio
-- **Others:** [Any other relevant skills or tools]
+- **Others:** Loading...
 
 ## 🌟 Projects
 
-### [Project 1 Name]
-[Brief description of the project. Highlight what makes it interesting or important.]
-
-- **Tech Stack:** [Technologies used in the project]
-- **GitHub Repo:** [Link to the project's repository]
-
-### [Project 2 Name]
-[Brief description of the project.]
-
-- **Tech Stack:** [Technologies used in the project]
-- **GitHub Repo:** [Link to the project's repository]
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+!SAYAN-DEV-NATH(https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 

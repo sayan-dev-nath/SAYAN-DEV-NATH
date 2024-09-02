@@ -1,20 +1,20 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Sayan Dev Nath 👋
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and continuously learning new things.
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently learning [specific technology, tool, or language].
-- 🔭 I’m working on [a specific project or area you're focusing on].
-- 💬 Ask me about [topics you're knowledgeable about].
-- 📫 How to reach me: [your email or LinkedIn, Twitter, etc.].
-- ⚡ Fun fact: [a fun or interesting fact about yourself].
+- 🌱 I’m currently learning CP.
+- 🔭 I’m working on CP.
+- 💬 Ask me about C, C++.
+- 📫 How to reach me: sayandevnath@hotmail.com .
+- ⚡ Fun fact: Loading... .
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** [List of programming languages you know]
+- **Languages:** C, C++
 - **Frameworks:** [List of frameworks you're proficient in]
-- **Tools:** [List of tools, IDEs, and software you use]
+- **Tools:** VS Code, Android Studio
 - **Others:** [Any other relevant skills or tools]
 
 ## 🌟 Projects

@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 
 ## 📈 GitHub Stats
-![SAYAN-DEV-NATH](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Sayan Dev Nath](https://github-readme-stats.vercel.app/api?username=SAYAN-DEV-NATH&show_icons=true&theme=radical)
 
 ---
 

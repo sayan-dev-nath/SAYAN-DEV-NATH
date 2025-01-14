@@ -1,4 +1,4 @@
-# Hi there, I'm Sayan Dev Nath 👋
+# Hey there, I'm Sayan Dev Nath 👋
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and continuously learning new things.
 

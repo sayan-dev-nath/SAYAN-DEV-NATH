@@ -1,6 +1,6 @@
 # Hey there, I'm Sayan Dev Nath 👋  
 
-<img src="sayan.jpg" alt="Sayan Dev Nath" width="200" style="border-radius:50%">
+<img src="https://drive.google.com/uc?export=view&id=1aKw9VPZrKG4F9aGsPUc8HZzsofRyIS8G" alt="Sayan Dev Nath" width="200" style="border-radius:50%">
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and continuously learning new things.  
 
@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 ## 🌐 Connect with Me  
 
-- 💼 [LinkedIn](https://linkedin.com) *(add your link here)*  
+- 💼 [LinkedIn](https://linkedin.com) 
 - 📧 **sayandevnath@hotmail.com**  
 
 ---

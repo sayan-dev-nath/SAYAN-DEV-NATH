@@ -1,7 +1,4 @@
 <!-- Profile Section -->
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=12xLzvvtXlVwwEVGOIL0xzWFysYK87PVE" alt="Sayan Dev Nath" width="200" style="border-radius:50%">
-</p>
 
 <h1 align="center">Hey there, I'm Sayan Dev Nath 👋</h1>
 
